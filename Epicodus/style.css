@@ -1,0 +1,61 @@
+/*colors were derived from the Eye Dropper Chrome extension. */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #a7a09a;
+  height: 100%;
+}
+
+h1 {
+  margin:0;
+}
+
+#body {
+  width: 980px;
+  margin:0 auto;
+  background: #99c;
+  height: 100%;
+}
+
+#header {
+  background: #ddd;
+  padding:5px 10px;
+}
+
+#options {
+  background: #c99;
+  padding:5px 10px;
+}
+
+#options ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#options li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  float: left;
+  width: 620px;
+  background: #9c9 repeat-y;
+  padding: 10px;
+  height: 100%;
+}
+
+h2 {
+  margin: 0 0 1em;
+}
+
+#sidebar {
+  float: right;
+  width: 320px;
+  background: #9999cd;
+  padding: 10px;
+  height: 100%;
+}
